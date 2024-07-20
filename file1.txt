@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 practice1
-=======
-practice
->>>>>>> e2b264986253c69f8a0212ba18283fbc48d5ce63
